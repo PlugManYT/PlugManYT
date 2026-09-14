@@ -4,7 +4,9 @@
 
 ## 🚀 Projects
 🌐 **PlugMan Ecosystem** — PLUGMAN.RU site ecosystem for Minecraft-developers and players
+
 🎥 **PlugMan channel** — PlugMan channel on YouTube 
+
 🎮 **ApexNodes** — Minecraft hosting partnership
 
 ## 🧰 Tech Stack
