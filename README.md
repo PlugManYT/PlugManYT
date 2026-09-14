@@ -3,10 +3,15 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=E07A2E&lines=Content+Maker;Creator+of+PlugMan+channel;Minecraft+developer;Python+developer;AIOgram+developer;HTML+developer" />
 
 ## 🚀 Projects
-🌐 **PlugMan Ecosystem** — MiniApp → Website → Launcher → Forum  
-🛠️ **PlugMan Launcher** — Rust + Tauri  
-💬 **PlugMan Forum** — Full‑stack + NGINX routing  
-🎮 **ApexNodes** — Minecraft partnership
+🌐 **PlugMan Ecosystem** — PLUGMAN.RU site ecosystem for Minecraft-developers and players
+🎥 **PlugMan channel** — PlugMan channel on YouTube 
+🎮 **ApexNodes** — Minecraft hosting partnership
 
-## 📊 GitHub Stats
-![PlugMan's GitHub stats](https://github-readme-stats.vercel.app/api?username=PlugManYT&show_icons=true&theme=tokyonight)
+## 🧰 Tech Stack
+- **Languages:** Python, HTML, Java
+- **Tools:** Da Vinci Studio, Claude Pro, OBS, Photoshop
+
+## 🎯 Goals
+- Build PlugMan ecosystem  
+- Grow YouTube channel  
+- Travel around the world
