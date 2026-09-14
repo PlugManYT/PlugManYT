@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src="https://readme-typing-svg.herokuapp.com?color=E07A2E&lines=Web+Developer;Rust+%2B+Tauri+Enthusiast;Creator+of+PlugMan;NGINX+Enjoyer;Content+Maker" />
+<img src="https://readme-typing-svg.herokuapp.com?color=E07A2E&lines=Content+Maker;Creator+of+PlugMan;Minecraft+developer;Python+developer;HTML+developer" />
 
 **PlugManYT/PlugManYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
