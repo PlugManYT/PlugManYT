@@ -8,4 +8,5 @@
 💬 **PlugMan Forum** — Full‑stack + NGINX routing  
 🎮 **ApexNodes** — Minecraft partnership
 
-https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight
+## 📊 GitHub Stats
+![PlugMan's GitHub stats](https://github-readme-stats.vercel.app/api?username=PlugManYT&show_icons=true&theme=tokyonight)
